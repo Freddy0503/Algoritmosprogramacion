@@ -1,3 +1,6 @@
+//00586943 FReddy Alexandro Torres Lopez 
+// Ing. en TI
+
 Algoritmo Ejercicio3_11
 	Escribir"9-5-3 = ", 9-5-3;
 	Escribir"2 div 3 + 3 / 5 =",2 div 3 + 3 / 5;
