@@ -1,3 +1,6 @@
+//00586943 FReddy Alexandro Torres Lopez 
+// Ing. en TI
+
 Algoritmo Ejercicio3_6
 	Definir a,b,c como Reales;
 	a <- 4;
