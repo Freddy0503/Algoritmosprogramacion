@@ -1,3 +1,6 @@
+//00586943 FReddy Alexandro Torres Lopez 
+// Ing. en TI
+
 Algoritmo Ejercicio3_10
 	Escribir " 7 div 2 = ", 7 div 2 ;
 	Escribir " 7 mod 2 =", 7 mod 2;
