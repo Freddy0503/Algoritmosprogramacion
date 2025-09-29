@@ -1,3 +1,6 @@
+//00586943 FReddy Alexandro Torres Lopez 
+// Ing. en TI
+
 Algoritmo Ejercicio3_7
 	
 	// A)
