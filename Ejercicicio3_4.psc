@@ -1,3 +1,6 @@
+//00586943 FReddy Alexandro Torres Lopez 
+// Ing. en TI
+
 Algoritmo Ejercicicio3_4
 	Definir A , B Como enteros ;
 	A <- 2;
