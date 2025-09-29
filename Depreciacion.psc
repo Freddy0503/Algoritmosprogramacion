@@ -1,3 +1,6 @@
+//00586943 FReddy Alexandro Torres Lopez 
+// Ing. en TI
+
 Algoritmo depreciacion
 	
 	//Datos de entrada
@@ -13,5 +16,6 @@ Algoritmo depreciacion
 	
 	D <- ( costo - valorRec) / vidaUtil
 	
-	Escribir "Depreciación:", D;
+	Escribir "DepreciaciÃ³n:", D;
 FinAlgoritmo
+
